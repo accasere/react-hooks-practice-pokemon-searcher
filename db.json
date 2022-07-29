@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "bulaed",
+      "hp": "25",
+      "sprites": {
+        "front": "https://th.bing.com/th/id/OIP.IGBxuv3tjKr9vWSg32oLqwHaHa?pid=ImgDet&rs=1",
+        "back": "https://th.bing.com/th/id/OIP.IGBxuv3tjKr9vWSg32oLqwHaHa?pid=ImgDet&rs=1"
+      },
+      "id": 151
     }
   ]
 }
